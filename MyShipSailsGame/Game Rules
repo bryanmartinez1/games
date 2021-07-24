@@ -1,0 +1,9 @@
+The user will go up against 4 CPUs in a card game that sees 
+each player recieve 7 cards from a deck.The objective of the 
+game is to get all 7 cards to have the same suit, i.e. all 7
+cards to be diamonds, clubs, hearts, or clovers. the User or 
+as referenced in the game Player 0 will pass off one card to 
+Player 1, Player 1 will pass off one card to PLayer 2, and 
+this continues until Player 4 passes off a card to Player 0
+and thus completes a turn. This processes continues until 
+one or more players creates a hand with the same suits
